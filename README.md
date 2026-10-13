@@ -87,7 +87,7 @@ C20/
 
 ## 📸 Screenshots
 
-> _Add screenshots to an `assets/` folder and update this section._
+> _Add screenshots to an `assets/` folder and update this section._ <----------------------- need to add path
 
 ---
 
