@@ -73,7 +73,7 @@ C20/
 │   │   ├── Header/
 │   │   ├── Footer/
 │   │   ├── NavTabs/
-│   │   └── Project/         # Individual project card
+│   │   └── Project/         # Individual project card    
 │   ├── pages/
 │   │   ├── About.jsx
 │   │   ├── Portfolio.jsx
