@@ -42,7 +42,7 @@ This portfolio was built as a single-page application using React, replacing a p
 
 ```bash
 # Clone the repository
-git clone https://github.com/Voobane/C20.git
+git clone https://github.com/Voobane/React-Portfolio-Netify.git
 cd C20
 
 # Install dependencies
